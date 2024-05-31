@@ -55,11 +55,19 @@ footer {
     height: 100%;
     width: 100%;
 }
-
+iframe{
+    height: 500px;
+    width: 80%;
+}
 
 @media (max-width:500px){
 #v1{
     height: 130px;
 }
+    iframe{
+    height:200px;
+    width: 100%;
+}
+    
 }
   
