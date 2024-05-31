@@ -99,11 +99,4 @@ button:hover {
 #port{
   color: white;
 }
-@media (max-width:480px){
-  .header-left-side h1{
-    font-size: 10px;
-  }
-  #port{
-    font-size: 10px;
-  }
-}
+
