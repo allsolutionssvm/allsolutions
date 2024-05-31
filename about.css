@@ -25,17 +25,18 @@ header.p {
   display: flex;
 }
 .header-left-side {
-  padding: 0 0 0 10px;
+  padding: 0 0 0 5px;
   color: white;
 }
 .header-left-side h1 {
    
   color: #bea060;
   line-height: 1.2em;
-  font-size: 35px;
-  padding-top: 20px;
-  margin-bottom: 20px;
-  font-weight: 400 !important;
+  font-size: 30px;
+  margin:10%;
+  margin-bottom: 10px;
+  font-weight: 400 ;
+  text-align: center;
 }
 .header-left-side h2 {
     
