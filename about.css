@@ -37,6 +37,7 @@ header.p {
   margin-bottom: 10px;
   font-weight: 400 !;
   text-align: center;
+  
 }
 .header-left-side h2 {
     
@@ -47,6 +48,7 @@ header.p {
   font-weight: 500;
   letter-spacing: 2px;
   padding: 10px;
+  float: left;
 }
 .header-left-side p {
   margin-top: 5%;
@@ -56,6 +58,7 @@ header.p {
   font-size: 16px;
   color: #c1bfbf;
   line-height: 2;
+  float: left;
 }
 button {
   padding: 20px 10px;
