@@ -98,7 +98,9 @@ button:hover {
   padding: 0 0 0 90px;
   color: white;
 }
-
+.bt{
+  margin-left: 200px;
+}
 
 
 @media (max-width:480px){
@@ -107,5 +109,8 @@ button:hover {
   }
   #port{
     font-size: 60%;
+  }
+  .bt{
+    margin-left: 15px;
   }
 }
