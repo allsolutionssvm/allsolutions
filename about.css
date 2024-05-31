@@ -35,7 +35,7 @@ header.p {
   font-size: 30px;
   margin:10%;
   margin-bottom: 10px;
-  font-weight: 400 ;
+  font-weight: 400 !;
   text-align: center;
 }
 .header-left-side h2 {
