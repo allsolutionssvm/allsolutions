@@ -50,13 +50,12 @@ footer {
 #v1{
     height: 300px;
 }
-video.soft{
-    margin-top: 10px;
+.soft{
+     margin-top: 35px;
+    height: 100%;
+    width: 100%;
 }
-iframe{
-   margin-top: 20px;
-   margin-bottom: 100px;
-}
+
 
 @media (max-width:500px){
 #v1{
